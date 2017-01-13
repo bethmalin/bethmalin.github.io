@@ -1,0 +1,81 @@
+body {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+div.feature {
+  font-family: 'Nunito', sans-serif;
+  font-size: 36px;
+  color: grey;
+}
+
+div.col-md-12 .seventeen {
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 100px;
+  color: purple;
+  font-weight: bold;
+}
+
+div.col-md-12 .summary {
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 20px;
+  color: pink;
+}
+
+div.col-md-12 .bio {
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 20px;
+  color: grey;
+}
+
+
+#title {
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 60px;
+  color: grey;
+}
+
+#Tru {
+  background-color: lightblue
+}
+
+#canopy {
+  background-color: #F17459
+}
+
+
+#about {
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 20px;
+  color: grey;
+  font-weight: bold;
+}
+
+#bio {
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 17px;
+  color: darkgrey;
+  font-weight: bold;
+}
+
+#connect {
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 20px;
+  color: darkblue
+}
+
+div.canopydesription {
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 20px;
+  color: purple;
+  font-weight: bold;
+}
+
+div.trudesription {
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 20px;
+  color: purple;
+  font-weight: bold;
+}
